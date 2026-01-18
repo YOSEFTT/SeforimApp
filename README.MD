@@ -1,6 +1,10 @@
 # Zayit - the study library that goes straight to the text
 
 <p align="center">
+  English | <a href="README_HE.md">עברית</a>
+</p>
+
+<p align="center">
   <img src="art/splash.png" alt="Zayit splash" width="100%">
 </p>
 
@@ -10,20 +14,18 @@ For review, preparing a lesson, or studying with a partner.
 
 Free. Clear. Efficient.
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://kdroidfilter.github.io/Zayit/">
-        <img src="art/button-download.png" alt="Download on GitHub" height="56">
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://ko-fi.com/lomityaesh">
-        <img src="art/button-koffe.png" alt="Support on Ko-fi" height="56">
-      </a>
-    </td>
-  </tr>
-</table>
+<h2 align="center">To download, click below</h2>
+<p align="center">
+  <a href="https://kdroidfilter.github.io/Zayit/download">
+    <img src="art/button-download.png" alt="Download" height="80">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/lomityaesh">
+    <img src="art/button-koffe.png" alt="Support on Ko-fi" height="56">
+  </a>
+</p>
 
 ## Vision
 Zayit is a dream turned useful: a natural, fluid, almost obvious study experience.
@@ -187,3 +189,5 @@ Sharing is encouraged - it is a good deed.
 ---
 
 Zayit is free and open source. For license details, see `LICENSE`.
+
+<p align="center">Built with love by Elie Gambache ❤️</p>
