@@ -355,7 +355,7 @@ public object PrecomputedCatalog {
         59L to "ספר טהרה",
         60L to "ספר שופטים",
         61L to "טור",
-        62L to "שולחן ערוך",
+        62L to "שו״ע",
       )
 
   public val CATEGORY_BOOKS: Map<Long, List<BookRef>> = mapOf(
@@ -540,7 +540,7 @@ public object PrecomputedCatalog {
       public const val TUR: Long = 61L
 
       /**
-       * שולחן ערוך
+       * שו״ע
        */
       public const val SHULCHAN_ARUCH: Long = 62L
     }

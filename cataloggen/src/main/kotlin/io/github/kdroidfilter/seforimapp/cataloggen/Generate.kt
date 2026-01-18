@@ -70,6 +70,11 @@ fun main(args: Array<String>) {
                 categoryTitles[id] = "$prefix $current"
             }
         }
+        // Override Shulchan Aruch display title to use abbreviation
+        val shulchanAruchId = resolvedIds.categoryIds["SHULCHAN_ARUCH"]
+        shulchanAruchId?.let { id ->
+            categoryTitles[id] = "שו״ע"
+        }
     }
 
     // Collect books per category and book titles (strip display titles by category label)

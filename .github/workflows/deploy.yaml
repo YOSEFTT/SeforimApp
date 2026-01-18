@@ -1,4 +1,4 @@
-name: Build and Release Compose Desktop App (Linux deb/rpm, Windows msi, macOS pkg with JBR)
+name: Build and Release Compose Desktop App (Linux deb/rpm, Windows msi/EXE, macOS pkg with JBR)
 
 on:
   push:
